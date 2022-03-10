@@ -6,8 +6,9 @@ Você pode acessar o projeto clicando [neste link](https://samuelgadiel.github.i
 
 ## O Projeto
 
-A ideia do projeto é obter o caminho mais otimizado entre duas cidades de um mapa.
-Foi utilizada a biblioteca LeafletJS para renderização do mapa e a biblioteca P5.JS como framework de projeto
+A ideia do projeto é obter o caminho mais otimizado entre duas cidades de um mapa. Para isso é utilizado o algoritmo de Dijkstra que calcula o caminho de custo mínimo entre vértices de um grafo. 
+
+Foi utilizada a biblioteca LeafletJS para renderização do mapa e a biblioteca P5.JS como framework do projeto
 
 Todos os dados das cidades são fixos.
 A distância considerada entre os pontos é a distância real entre as cidades.
