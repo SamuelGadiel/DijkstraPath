@@ -7,6 +7,3 @@ I got interested in the idea and started to search about it. I've found a lot of
 So I decided to code my own implementation of the Dijkstra Algorithm, with it this project was born
 
 A project created to study how Dijkstra Algorithm finds the shortest path between two given points
-
-## Walkthrough
-Coming...
